@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/thermal-printer/static/css/main.073c9b0a.css",
-    "main.js": "/thermal-printer/static/js/main.3f2ef850.js",
+    "main.js": "/thermal-printer/static/js/main.10b9e269.js",
     "static/js/787.f055211e.chunk.js": "/thermal-printer/static/js/787.f055211e.chunk.js",
     "index.html": "/thermal-printer/index.html",
     "main.073c9b0a.css.map": "/thermal-printer/static/css/main.073c9b0a.css.map",
-    "main.3f2ef850.js.map": "/thermal-printer/static/js/main.3f2ef850.js.map",
+    "main.10b9e269.js.map": "/thermal-printer/static/js/main.10b9e269.js.map",
     "787.f055211e.chunk.js.map": "/thermal-printer/static/js/787.f055211e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3f2ef850.js"
+    "static/js/main.10b9e269.js"
   ]
 }
