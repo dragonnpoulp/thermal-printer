@@ -1,0 +1,23 @@
+{
+  "name": "thermal-printer",
+  "version": "1.0.0",
+  "description": "WebUSB Thermal Printer library",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Long Nguyen Duc",
+  "license": "ISC",
+  "private": "false",
+  "dependencies": {
+    "iconv-lite": "0.5.0",
+    "pngjs": "3.3.3",
+    "unorm": "1.4.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  }
+}
